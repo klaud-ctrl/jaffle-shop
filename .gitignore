@@ -7,6 +7,7 @@ target/
 dbt_packages/
 logs/
 profiles.yml
+docker-compose.yml
 
 .DS_Store
 
